@@ -1,0 +1,45 @@
+.box{
+    width: 1110px;
+    height: 672px;
+    border: 1px solid black;
+    background-image: url("../pictures/fon.png");
+    position: relative;
+}
+div{
+    display: block;
+}
+.ikonki{
+    position: absolute;
+    left: 47px;
+    top: 14px;
+}
+.list{
+    position: absolute;
+    left: 463px;;
+}
+.shastik{
+    position: absolute;
+    top: 378px;
+}
+.cloud{
+    position: absolute;
+    left: 288px;
+    top: 407px;
+}
+.text{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 24px;
+    position: absolute;
+    left: 339px;
+    top: 415px;
+}
+.smile{
+    position: absolute;
+    left: 641px;
+}
+.pen{
+    position: absolute;
+    left: 735px;
+    top: 494px;
+}
